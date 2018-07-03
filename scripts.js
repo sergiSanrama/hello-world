@@ -3,3 +3,7 @@ function showMessage(){
 }
 
 console.log("carga bien");
+
+function showAlert(){
+    alert("Welcome! Bienvenido! Wilkommen!");
+}
